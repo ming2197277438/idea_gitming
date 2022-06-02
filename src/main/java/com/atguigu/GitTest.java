@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("我叫龚佩杰");
         System.out.println("0217班");
         System.out.println("顶级大佬");
+        System.out.println("顶级大佬阿");
     }
 }
